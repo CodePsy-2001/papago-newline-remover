@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Papago Newline Remover",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Activate with a shortcut to remove newlines in Papago's input area",
     "icons": {
         "16": "images/icon-16.png",

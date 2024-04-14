@@ -1,4 +1,4 @@
-const transform = (text) =>
+let transform = (text) =>
   text
     // remove only one newline
     .replace(/(?<!\n)\n(?!\n)/g, " ")
